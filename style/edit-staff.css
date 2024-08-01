@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: #254336;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+
+    margin-top: 10vh;
+}
+
+.wrapper {
+    border: 1px solid #DAD3BE;
+
+    padding: 5vh;
+}
+
+.title {
+    color: #DAD3BE;
+
+    margin-bottom: 1.5vh;
+
+}
+
+.field-form {
+    align-items: start;
+
+    margin-top: 1.5vh;
+}
+
+label {
+    color: #B7B597;
+}
+
+input {
+    width: 100%;
+}
+
+.menu a{
+   margin-top: 5vh;
+}
