@@ -46,9 +46,8 @@
             </div>
         </main>
         <footer>
-            <hr>
             <div class="copyright">
-                <label>&copy; 2024 Copyright <strong>Radithya Mahesa</strong></label>
+                <label>Made With &#x2764;&#xFE0F; by <strong>Radithya Mahesa</strong></label>
             </div>
         </footer>
     </div>   
