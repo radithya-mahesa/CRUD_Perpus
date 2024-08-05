@@ -32,7 +32,7 @@
                     <td><?= $staff["email"] ?></td>
                     <td>
                         <a href="<?= "../update/edit-staff.php?id=" . $staff["id"] ?>">UPDATE</a>
-                        <a href="<?= "../delete/delete-staff.php?id=" . $staff["id"] ?>">UPDATE</a>
+                        <a href="<?= "../delete/delete-staff.php?id=" . $staff["id"] ?>">DELETE</a>
                     </td>
                 </tr>
                 <?php endforeach ?>
